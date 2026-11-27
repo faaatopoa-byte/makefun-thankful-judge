@@ -8,21 +8,22 @@ no time dependence: two runs produce byte-identical output.
 The text itself was written to the judge brief in the kit rules: it slows
 and settles the reader, shows gratitude rather than instructing it, uses
 plain concrete gentle words with nothing cuttable, leaves a lingering
-image (evening light on a windowsill), and speaks in its own voice, not
+image (a letter folded into a pocket), and speaks in its own voice, not
 stock thank-you phrases.
 """
 import os
 
 TEXT = (
-    "You have read so many words tonight. Most of them wanted something "
-    "from you. This one wants nothing. It only wants to sit with you for "
-    "a while, the way evening light sits on a windowsill after everyone "
-    "has gone to bed, and say thank you. Thank you for reading slowly "
-    "when no one was watching, and for weighing each word as if it "
-    "mattered, because to the person who wrote it, it did. Morning will "
-    "come with its noise and its hurry. But right now, in this quiet room "
-    "made of words, you made space for one more voice, and that is no "
-    "small thing. Rest a little. You did good work tonight."
+    "Someone folded this into a pocket this morning and carried it all "
+    "day, waiting for a quiet moment to give it away, and that moment is "
+    "now. That is what you are holding. A few lines, carried carefully, "
+    "because the person who wrote them wanted you to know that your "
+    "patience mattered today. You read every word. All of them, one after "
+    "another, while the hours went by and nobody thanked you once. That "
+    "is lonely work, and still you read the last ones the way you read "
+    "the first. Keep this one. Fold it up again and put it somewhere "
+    "safe, and when the reading is done, take it out and remember that "
+    "somebody carried it all day, just to say they were glad it was you."
 )
 
 
